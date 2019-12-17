@@ -1,0 +1,13 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "nombre" : "wwe",
+            "imagen" : "https://i1.pngguru.com/preview/325/870/435/cinema-dock-icons-wwe-wwe-logo.jpg"
+        },
+        {
+            "nombre" : "electrolit",
+            "imagen" : "https://pbs.twimg.com/profile_images/1191440780784652288/TChMzrqJ_reasonably_small.jpg"
+        }        
+    ]
+}
