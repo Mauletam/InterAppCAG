@@ -1,0 +1,50 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "home",
+            "icon" : "home",
+            "texto": "Inicio"
+        },
+        {
+            "ruta" : "favorite",
+            "icon" : "favorite",
+            "texto": "Favoritos"
+        },
+        {
+            "ruta" : "delegaciones",
+            "icon" : "location_city",
+            "texto": "Delegaciones"
+        },
+        {
+            "ruta" : "deportes",
+            "icon" : "directions_run",
+            "texto": "Deportes"
+        },
+        {
+            "ruta" : "mapa",
+            "icon" : "place",
+            "texto": "Mapa"
+        },
+        {
+            "ruta" : "noticias",
+            "icon" : "note",
+            "texto": "Noticias"
+        },
+        {
+            "ruta" : "comunidad",
+            "icon" : "chat_bubble",
+            "texto": "Comunidad"
+        },
+        {
+            "ruta" : "acercaDe",
+            "icon" : "info",
+            "texto": "Acerca de"
+        },
+        {
+            "ruta" : "configuracion",
+            "icon" : "settings",
+            "texto": "Configuración"
+        }
+    ]
+}
